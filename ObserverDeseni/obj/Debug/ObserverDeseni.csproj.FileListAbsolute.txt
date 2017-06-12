@@ -1,0 +1,6 @@
+c:\users\kuzuryuse\documents\visual studio 2012\Projects\ObserverDeseni\ObserverDeseni\bin\Debug\ObserverDeseni.exe.config
+c:\users\kuzuryuse\documents\visual studio 2012\Projects\ObserverDeseni\ObserverDeseni\bin\Debug\ObserverDeseni.exe
+c:\users\kuzuryuse\documents\visual studio 2012\Projects\ObserverDeseni\ObserverDeseni\bin\Debug\ObserverDeseni.pdb
+c:\users\kuzuryuse\documents\visual studio 2012\Projects\ObserverDeseni\ObserverDeseni\obj\Debug\ObserverDeseni.csprojResolveAssemblyReference.cache
+c:\users\kuzuryuse\documents\visual studio 2012\Projects\ObserverDeseni\ObserverDeseni\obj\Debug\ObserverDeseni.exe
+c:\users\kuzuryuse\documents\visual studio 2012\Projects\ObserverDeseni\ObserverDeseni\obj\Debug\ObserverDeseni.pdb
